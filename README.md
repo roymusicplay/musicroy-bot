@@ -50,7 +50,7 @@ Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.c
 
 ## Support!
 Facing Problems While Deploying or Using? **[Read How To Deploy](https://itz-fork.gitbook.io/callsmusic-plus/deploying-the-bot)**
-or Ask Me In **[Nexa Bots Support Group](https://t.me/DOSTI_GROUP_1234)**
+or Ask Me In **[ABHINAS SUPPORT GROUP](https://t.me/DOSTI_GROUP_1234)**
 
 
 # More Info
@@ -62,7 +62,7 @@ Read The **[Official Docs](https://itz-fork.gitbook.io/callsmusic-plus/)** For t
 
 ## Credits
 
-- **[CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the base Repo! ❤️**
+- **[ABHINAS_ROY](https://t.me/abhinasroy) ~ This is the base Repo! ❤️**
 - **[Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn)** : development
 - **[Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX)** : PyTgCalls
 - **Mr Dark prince**
