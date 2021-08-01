@@ -66,7 +66,7 @@
     "UPSTREAM_REPO": {
       "description": "Github Repo Url. Only needed if you are using your own Fork!",
       "required": false,
-      "value": "https://github.com/Itz-fork/roymusicplay/musicroy-bot"
+      "value": "https://github.com/roymusicplay/musicroy-bot"
     },
     "THUMB_URL": {
       "description": "Thumbnail Url To Use in play, search commands. Add this only if you need a custom one instead of default thumbnail",
