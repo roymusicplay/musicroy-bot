@@ -1,6 +1,6 @@
 # Calls Music Plus
 
-### ![MusicsNexa_bot]https://telegra.ph/file/6f492162d375674fe959c.jpg()
+### ![MusicsNexa_bot](https://telegra.ph/file/6f492162d375674fe959c.jpg)
 
 
 **A [ABHINAS_ROY](https://t.me/abhinasroy) Based Telegram Bot and Userbot To Play Music in Your Telegram Groups With Some Cool Extra Features!**
