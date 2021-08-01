@@ -32,7 +32,7 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 
 
 # Deployment
-Before You Deploy make sure you Starred & Forked **[This Repo!](https://github.com/Itz-fork/Callsmusic-Plus)** 🤗️
+Before You Deploy make sure you Starred & Forked **[father!](https://t.me/abhinasroy)** 🤗️
 
 
 ## The Easy Way ⚡️
