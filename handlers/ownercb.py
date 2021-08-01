@@ -118,7 +118,7 @@ async def cbunbans(_, query: CallbackQuery):
 
  - This will unban user with User ID: `1234567891`
 
-Made with ❤️ by **@NexaBotsUpdates**""",
+Made with ❤️ by **@abhinasroy**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -143,7 +143,7 @@ async def cbuserstats(_, query: CallbackQuery):
     - Send `/stats` command in Bot PM
 
 
-Made with ❤️ by **@NexaBotsUpdates**""",
+Made with ❤️ by **@abhinasroy**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -175,7 +175,7 @@ async def cbbroadcast(_, query: CallbackQuery):
      - Reply to a Text message with `/chatcast` command to Broadcast it using Streamer Account as a copy of that Message.
 
 
-Made with ❤️ by **@NexaBotsUpdates**""",
+Made with ❤️ by **@abhinasroy**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -222,7 +222,7 @@ async def cbherokufuncs(_, query: CallbackQuery):
        This will delete variable named  `THUMB_URL`
 
 
-Made with ❤️ by **@NexaBotsUpdates**""",
+Made with ❤️ by **@abhinasroy**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
