@@ -53,7 +53,7 @@ or Ask Me In **[ABHINAS SUPPORT GROUP](https://t.me/DOSTI_GROUP_1234)**
 # More Info** For the Guides on How to Deploy and Getting Config Values.
 
 <p align="center">
-    <a href="https://itz-fork.gitbook.io/callsmusic-plus/"><img src="https://img.shields.io/badge/Docs-FAFAFA?style=for-the-badge&logo=gitbook&logoColor=black"></a> | <a href="https://github.com/Itz-fork/Callsmusic-Plus"><img src="https://img.shields.io/badge/GitHub-030202?style=for-the-badge&logo=github&logoColor=white"></a>
+ 
 </p>
 
 ## Credits
